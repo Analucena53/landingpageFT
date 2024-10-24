@@ -27,18 +27,19 @@ Sigue estos pasos para clonar y ejecutar este proyecto en tu máquina local:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/femtech-innovations.git
+   git clone https://github.com/Analucena53/landingpageFT.git
 2. Abre index.html en tu navegador preferido.
 No se requiere instalación de dependencias ya que todo el contenido es estático y accesible localmente.
 
 Uso
-El sitio web es de uso informativo y promocional. Su principal objetivo es:
 
+El sitio web es de uso informativo y promocional. Su principal objetivo es:
 Informar a los usuarios sobre los productos disponibles y los valores de la empresa.
 Permitir a los usuarios contactar fácilmente a través del botón de llamada a la acción.
 Se puede navegar por las diferentes secciones, incluyendo el catálogo de productos, el equipo, y las reseñas de clientes.
 
 Características
+
 Interfaz amigable: Diseñada con el usuario final en mente, asegurando facilidad de navegación.
 Totalmente responsivo: El sitio se adapta a dispositivos móviles y de escritorio gracias a Bootstrap.
 Contenido dinámico: Las secciones principales incluyen productos populares y testimonios reales de clientes.
