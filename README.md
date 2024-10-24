@@ -1,5 +1,8 @@
 **FemTech Innovations** es una página web que se dedica a la venta de dispositivos móviles reacondicionados, ofreciendo productos de alta calidad, sostenibles y económicos. El proyecto está diseñado con un enfoque en la experiencia de usuario y en resaltar el trabajo de un equipo íntegramente femenino de profesionales en tecnología y diseño.
 
+###VER LA WEBSITE en el siguiente enlace:
+https://analucena53.github.io/landingpageFT/
+
 ## Descripción General
 
 Este proyecto se trata de un sitio web moderno y responsivo que presenta un catálogo de los mejores teléfonos móviles reacondicionados. La página está organizada en diferentes secciones, que incluyen:
